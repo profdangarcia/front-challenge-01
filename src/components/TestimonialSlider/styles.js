@@ -78,6 +78,7 @@ export const NextPrevBox = styled.div`
   @media screen and (min-width: 1024px){
     bottom: 42px;
     left: 105px;
+    z-index: 10;
   }
 `;
 
