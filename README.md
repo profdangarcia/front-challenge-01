@@ -1,6 +1,7 @@
 # front-challenge-01
 
 First Front-end challenge from [Front-end Menthor](https://www.frontendmentor.io/)
+[Demo](https://front-challenge-01.now.sh/)
 
 ## Tools
 
